@@ -20,7 +20,8 @@ redirect_from:
 <font weight=700 size="5">Yong Cheng </font> <br><br>
 Ph.D. Candidate <br>
 Peking University <br>
-Email: <a href="mailto:yongcheng@pku.edu.cn"/a> <br> 
+Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br> 
+
 
 <br>
 
@@ -99,7 +100,6 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 <br>
 
 # 🏅 Scholarships & Honors
-<br>
 -	National Scholarship (2021, the highest national honor for students in China)
 -	Peking University May 4th Scholarship (2024, the highest honor for students at Peking University)
 -	Peking University CIB Scholarship (2022)
@@ -129,11 +129,10 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 <br>
 
 # 🏛️ Research Practice & Academic Exchange
-<br>
 - Ministry of Science and Technology, Key R&D Program Project, No. 2023YFC3705101, "High-Sensitivity Airborne Detection Technology for Multi-Pollutants and Cloud Water Chemistry," 2023-2027, ongoing. Participated in project application and report writing.
 - Ministry of Science and Technology, Key R&D Program Project, No. 2018YFC0213904, "Coupled Formation Mechanism of Secondary Aerosols and Ozone Pollution in the Guangdong-Hong Kong-Macao Region," 2018-2021, completed. Involved in data collection, software development, and report writing.
 - Guangdong Provincial Department of Science and Technology, Key Area R&D Program Project, No. 2020B1111360003, "Development and Demonstration of Key Technologies for Rapid Ozone Pollution Early Warning and Precise Response," 2021-2024, ongoing. Participated in VOCs sampling and algorithm development.
-- Shenzhen Science and Technology Innovation Commission, Shenzhen Science and Technology Program Project, No. KCXFZ202002011006340, "Development and Demonstration of High-Resolution Three-Dimensional Monitoring Technology for Ozone and Its Precursors," 2020-2023, completed. Responsible for airspace application, UAV vertical sampling of atmospheric pollutants, and data analysis.<br>
+- Shenzhen Science and Technology Innovation Commission, Shenzhen Science and Technology Program Project, No. KCXFZ202002011006340, "Development and Demonstration of High-Resolution Three-Dimensional Monitoring Technology for Ozone and Its Precursors," 2020-2023, completed. Responsible for airspace application, UAV vertical sampling of atmospheric pollutants, and data analysis.
 ---
 - In May 2019, as a member of the Chinese university student delegation, visited various research institutions in Japan for academic exchanges.
 - In May 2023, participated in the 5th National Symposium on Atmospheric Ozone Pollution Prevention and Control (Wuhan, China) and presented a poster, winning the Best Poster Award.
