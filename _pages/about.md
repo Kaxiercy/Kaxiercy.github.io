@@ -26,13 +26,11 @@ Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br>
 <br>
 
 # 🧐 Research Experience
-
 The current main theme of the research is based on environmental big data, integrating AI techniques with traditional mechanistic models to conduct an in-depth analysis of the causes and spatial-temporal sources of atmospheric pollution. This work aspires to offer not only a novel scientific perspective but also vital strategic support for global efforts to mitigate air pollution, ultimately contributing to the sustainable survival and well-being of humanity.
 
 <br>
 
 # 🎓 Education
-
 **Ph.D. (2019–) | Peking University, Beijing/Shenzhen, China** <br>
 Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00 <br>
 
@@ -141,15 +139,12 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 <br>
 
 # 🦾 Skills & Expertise
-
 -	**Programming and Software Development:** Proficient in Python, R, and MATLAB for the development and application of AI technologies in the atmospheric environment field. Skilled in big data processing, analysis, and visualization. Capable of independently completing the full-stack development process, including backend databases, frontend UI design, and software deployment. Developed various research tool applications, both online and offline.
 -	**Software Proficiency:** Experienced in specialized GIS software, including ArcGIS and ENVI, for geospatial data analysis. Proficient in the PMF source apportionment model and the box model based on the MCM mechanism. Additionally, has experience with running mesoscale chemical transport models such as WRF-CMAQ.
-
 
 <br>
 
 # 🗺️ Visitor
-
 <div style="width: 500px; height: 250px; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
 </div>
