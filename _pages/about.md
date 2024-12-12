@@ -141,7 +141,6 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 <br>
 
 # 🦾 Skills & Expertise
-<br>
 
 -	**Programming and Software Development:** Proficient in Python, R, and MATLAB for the development and application of AI technologies in the atmospheric environment field. Skilled in big data processing, analysis, and visualization. Capable of independently completing the full-stack development process, including backend databases, frontend UI design, and software deployment. Developed various research tool applications, both online and offline.
 -	**Software Proficiency:** Experienced in specialized GIS software, including ArcGIS and ENVI, for geospatial data analysis. Proficient in the PMF source apportionment model and the box model based on the MCM mechanism. Additionally, has experience with running mesoscale chemical transport models such as WRF-CMAQ.
@@ -150,7 +149,6 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 <br>
 
 # 🗺️ Visitor
-<br>
 
 <div style="width: 500px; height: 250px; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
