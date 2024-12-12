@@ -146,7 +146,7 @@ Majoring in Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 
 # 🗺️ Visitor
 <div style="width: 500px; height: 250px; ">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=XrY6sPIyS7p7mfXva17CUDQ1CN_CHCTbbxNk2EV8ZPo"></script>
 </div>
 <script src="https://giscus.app/client.js"
         data-repo="Kaxiercy/Kaxiercy.github.io"
