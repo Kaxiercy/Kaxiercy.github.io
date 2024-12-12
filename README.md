@@ -1,6 +1,5 @@
 # Yong Cheng - AcadHomepage
 
-## Change your avatar from round to square
 **_sass/_sidebar.scss**
 ```
 .author__avatar {
