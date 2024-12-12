@@ -112,7 +112,9 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 -	1st Prize, Final Academic Competition, 31st Peking University "Challenge Cup" May Fourth Youth Science Award (2023, First Contributor)
 -	2nd Prize, Final Academic Competition, 32nd Peking University "Challenge Cup" May Fourth Youth Science Award (2024, First Contributor)
 -	Best Poster Award at the 5th National Symposium on Prevention and Control of Atmospheric Ozone Pollution (2023)
+
 ---
+
 - Outstanding Graduate of Shanxi University (2019)
 - First-Class Outstanding Student Scholarship, Shanxi University (2016)
 - First-Class Outstanding Student Scholarship, Shanxi University (2017)
@@ -131,7 +133,9 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 - Ministry of Science and Technology, Key R&D Program Project, No. 2018YFC0213904, "Coupled Formation Mechanism of Secondary Aerosols and Ozone Pollution in the Guangdong-Hong Kong-Macao Region," 2018-2021, completed. Involved in data collection, software development, and report writing.
 - Guangdong Provincial Department of Science and Technology, Key Area R&D Program Project, No. 2020B1111360003, "Development and Demonstration of Key Technologies for Rapid Ozone Pollution Early Warning and Precise Response," 2021-2024, ongoing. Participated in VOCs sampling and algorithm development.
 - Shenzhen Science and Technology Innovation Commission, Shenzhen Science and Technology Program Project, No. KCXFZ202002011006340, "Development and Demonstration of High-Resolution Three-Dimensional Monitoring Technology for Ozone and Its Precursors," 2020-2023, completed. Responsible for airspace application, UAV vertical sampling of atmospheric pollutants, and data analysis.
-***
+
+---
+
 - In May 2019, as a member of the Chinese university student delegation, visited various research institutions in Japan for academic exchanges.
 - In May 2023, participated in the 5th National Symposium on Atmospheric Ozone Pollution Prevention and Control (Wuhan, China) and presented a poster, winning the Best Poster Award.
 - In December 2023, attended the AGU23 Fall Meeting (San Francisco, USA) and presented a poster, which garnered positive feedback.
