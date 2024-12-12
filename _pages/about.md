@@ -35,7 +35,7 @@ The current main theme of the research is based on environmental big data, integ
 **Ph.D. (2019–2025) | Peking University, Beijing/Shenzhen, China** <br>
 Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00 <br>
 
-**B.S.  (2015–2019) | Shanxi University, Taiyuan, China** <br>
+**B.S.   (2015–2019) | Shanxi University, Taiyuan, China** <br>
 Majoring in Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 
 <br>
