@@ -112,9 +112,7 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 -	1st Prize, Final Academic Competition, 31st Peking University "Challenge Cup" May Fourth Youth Science Award (2023, First Contributor)
 -	2nd Prize, Final Academic Competition, 32nd Peking University "Challenge Cup" May Fourth Youth Science Award (2024, First Contributor)
 -	Best Poster Award at the 5th National Symposium on Prevention and Control of Atmospheric Ozone Pollution (2023)
-
----
-
+-	---
 - Outstanding Graduate of Shanxi University (2019)
 - First-Class Outstanding Student Scholarship, Shanxi University (2016)
 - First-Class Outstanding Student Scholarship, Shanxi University (2017)
