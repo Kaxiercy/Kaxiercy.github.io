@@ -20,8 +20,7 @@ redirect_from:
 <font weight=700 size="6">Yong Cheng </font> <br><br>
 Ph.D. Candidate <br>
 Peking University <br>
-ORCID: 0000-0001-9590-9548 <br>
-Scopus Author ID：57205207441 <br>
+Advisors: Prof. Ling-Yan He & Prof. Xiao-feng Huang<br>
 Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br> 
 
 
