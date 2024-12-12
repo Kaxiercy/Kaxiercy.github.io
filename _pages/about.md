@@ -25,11 +25,16 @@ Email: <a href="mailto:yongcheng@pku.edu.cn"/a> <br>
 <br>
 
 # 🧐 Research Experience：
+<br>
+
 The current main theme of the research is based on environmental big data, integrating AI techniques with traditional mechanistic models to conduct an in-depth analysis of the causes and spatial-temporal sources of atmospheric pollution. This work aspires to offer not only a novel scientific perspective but also vital strategic support for global efforts to mitigate air pollution, ultimately contributing to the sustainable survival and well-being of humanity.
 
 <br>
 
 # 🎓 Education
+
+<br>
+
 **Ph.D. (2019–) | Peking University, Beijing/Shenzhen, China**<br>
 Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00<br>
 
@@ -97,6 +102,7 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00<br>
 <br>
 
 # 🏅 Scholarships & Honors
+<br>
 -	National Scholarship (2021, the highest national honor for students in China)
 -	Peking University May 4th Scholarship (2024, the highest honor for students at Peking University)
 -	Peking University CIB Scholarship (2022)
@@ -126,6 +132,7 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00<br>
 <br>
 
 # 🏛️ Research Practice & Academic Exchange
+<br>
 - Ministry of Science and Technology, Key R&D Program Project, No. 2023YFC3705101, "High-Sensitivity Airborne Detection Technology for Multi-Pollutants and Cloud Water Chemistry," 2023-2027, ongoing. Participated in project application and report writing.
 - Ministry of Science and Technology, Key R&D Program Project, No. 2018YFC0213904, "Coupled Formation Mechanism of Secondary Aerosols and Ozone Pollution in the Guangdong-Hong Kong-Macao Region," 2018-2021, completed. Involved in data collection, software development, and report writing.
 - Guangdong Provincial Department of Science and Technology, Key Area R&D Program Project, No. 2020B1111360003, "Development and Demonstration of Key Technologies for Rapid Ozone Pollution Early Warning and Precise Response," 2021-2024, ongoing. Participated in VOCs sampling and algorithm development.
@@ -135,13 +142,11 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00<br>
 - In May 2023, participated in the 5th National Symposium on Atmospheric Ozone Pollution Prevention and Control (Wuhan, China) and presented a poster, winning the Best Poster Award.
 - In December 2023, attended the AGU23 Fall Meeting (San Francisco, USA) and presented a poster, which garnered positive feedback.
 
-
-<br>
-
-
 <br>
 
 # 🦾 Skills & Expertise
+<br>
+
 -	**Programming and Software Development:** Proficient in Python, R, and MATLAB for the development and application of AI technologies in the atmospheric environment field. Skilled in big data processing, analysis, and visualization. Capable of independently completing the full-stack development process, including backend databases, frontend UI design, and software deployment. Developed various research tool applications, both online and offline.
 -	**Software Proficiency:** Experienced in specialized GIS software, including ArcGIS and ENVI, for geospatial data analysis. Proficient in the PMF source apportionment model and the box model based on the MCM mechanism. Additionally, has experience with running mesoscale chemical transport models such as WRF-CMAQ.
 
@@ -149,6 +154,8 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00<br>
 <br>
 
 # 🗺️ Visitor
+<br>
+
 <div style="width: 500px; height: 250px; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
 </div>
