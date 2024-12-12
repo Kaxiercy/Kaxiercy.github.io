@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=700 size="5">Yong Cheng <br>
+<font weight=700 size="5">Yong Cheng </font> <br><br>
 Ph.D. Candidate <br>
 Peking University <br>
 Email: <a href="mailto:yongcheng@pku.edu.cn"/a> <br> 
 
 <br>
 
-# 🧐 Research Experience：
-<br>
+# 🧐 Research Experience
 
 The current main theme of the research is based on environmental big data, integrating AI techniques with traditional mechanistic models to conduct an in-depth analysis of the causes and spatial-temporal sources of atmospheric pollution. This work aspires to offer not only a novel scientific perspective but also vital strategic support for global efforts to mitigate air pollution, ultimately contributing to the sustainable survival and well-being of humanity.
 
@@ -33,15 +32,13 @@ The current main theme of the research is based on environmental big data, integ
 
 # 🎓 Education
 
+**Ph.D. (2019–) | Peking University, Beijing/Shenzhen, China** <br>
+Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00 <br>
+
+**B.S. (2015–2019) | Shanxi University, Taiyuan, China** <br>
+Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
+
 <br>
-
-**Ph.D. (2019–) | Peking University, Beijing/Shenzhen, China**<br>
-Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00<br>
-
-**B.S. (2015–2019) | Shanxi University, Taiyuan, China**<br>
-Physical Geography and Resource Environment; GPA: 3.69/4.00<br>
-
- <br>
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
