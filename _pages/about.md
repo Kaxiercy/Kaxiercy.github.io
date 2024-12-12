@@ -37,7 +37,7 @@ The current main theme of the research is based on environmental big data, integ
 Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00 <br>
 
 **B.S.  (2015–2019) | Shanxi University, Taiyuan, China** <br>
-Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
+Majoring in Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 
 <br>
 
