@@ -3,11 +3,11 @@ main:
   - title: "About me"
     url: "/#about-me"
     
-  - title: "Blog"
-    url: "/blog/"
+  # - title: "Blog"
+  #   url: "/blog/"
   
-  - title: "Photography"
-    url: "https://lzhzlw.github.io/photography/"
+#   - title: "Photography"
+#     url: "https://lzhzlw.github.io/photography/"
 
-  - title: "Running Page"
-    url: "https://lzhzlw.github.io/running_page/"
+#   - title: "Running Page"
+#     url: "https://lzhzlw.github.io/running_page/"
