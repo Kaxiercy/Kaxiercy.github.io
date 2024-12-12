@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=700 size="5">Yong Cheng </font> <br><br>
+<font weight=700 size="6">Yong Cheng </font> <br><br>
 Ph.D. Candidate <br>
 Peking University <br>
+Advisors: Prof. Ling-Yan He & Prof. Xiao-feng Huang<br>
 Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br> 
 
 
@@ -34,48 +35,48 @@ The current main theme of the research is based on environmental big data, integ
 **Ph.D. (2019–2025) | Peking University, Beijing/Shenzhen, China** <br>
 Majoring in Environmental Science with a specialization in Atmospheric Environmental Science; GPA: 3.74/4.00 <br>
 
-**B.S.  (2015–2019) | Shanxi University, Taiyuan, China** <br>
-Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
+**B.S.   (2015–2019) | Shanxi University, Taiyuan, China** <br>
+Majoring in Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 
 <br>
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mP2qiYcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='images/STOTEN_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Cheng Y.`, Peng Y., Cao L.M., Huang X.F., He L.Y. 2024. Identifying the geospatial relationship of surface ozone pollution in China: Implications for key pollution control regions. Science of The Total Environment, 930: 172763.[[DOI]](https://doi.org/10.1016/j.scitotenv.2024.172763) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
+-	`Cheng Y.`, Peng Y., Cao L.M., Huang X.F., He L.Y. 2024. Identifying the geospatial relationship of surface ozone pollution in China: Implications for key pollution control regions. Science of The Total Environment, 930: 172763.[[DOI]](https://doi.org/10.1016/j.scitotenv.2024.172763) [[Preview]](/pdf_file/1-2024_STOTEN-CY.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol Model 2021</div><img src='images/Eco_Modeling_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Pollution</div><img src='images/EP_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Cheng Y.`, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
+-	`Cheng Y.`, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/1-2022_EP-CY.pdf)
   
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol Model 2021</div><img src='images/Eco_Modeling_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environmental Management</div><img src='images/JEM_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
--	`Cheng Y.`, He L.Y., Huang X.F. 2021. Development of a high-performance machine learning model to predict ground ozone pollution in typical cities of China. Journal of Environmental Management, 299.[[DOI]](https://doi.org/10.1016/j.jenvman.2021.113670) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
+-	`Cheng Y.`, He L.Y., Huang X.F. 2021. Development of a high-performance machine learning model to predict ground ozone pollution in typical cities of China. Journal of Environmental Management, 299.[[DOI]](https://doi.org/10.1016/j.jenvman.2021.113670) [[Preview]](/pdf_file/1-2021_JEM-CY.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol Model 2021</div><img src='images/Eco_Modeling_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='images/JCP_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
--	`Cheng Y.`, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
+-	`Cheng Y.`, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/1-2021_JCP-CY.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol Model 2021</div><img src='images/Eco_Modeling_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Atmospheric Environment</div><img src='images/AE_2019.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
--	`Cheng Y.`, Zhang H., Liu Z., Chen L., Wang P. 2019. Hybrid algorithm for short-term forecasting of PM2.5 in China. Atmospheric Environment, 200: 264-279.[[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
+-	`Cheng Y.`, Zhang H., Liu Z., Chen L., Wang P. 2019. Hybrid algorithm for short-term forecasting of PM2.5 in China. Atmospheric Environment, 200: 264-279.[[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025) [[Preview]](/pdf_file/1-2019_AE-CY.pdf)
 
 </div>
 </div>
@@ -138,25 +139,25 @@ Physical Geography and Resource Environment; GPA: 3.69/4.00 <br>
 
 # 🦾 Skills & Expertise
 -	**Programming and Software Development:** Proficient in Python, R, and MATLAB for the development and application of AI technologies in the atmospheric environment field. Skilled in big data processing, analysis, and visualization. Capable of independently completing the full-stack development process, including backend databases, frontend UI design, and software deployment. Developed various research tool applications, both online and offline.
--	**Software Proficiency:** Experienced in specialized GIS software, including ArcGIS and ENVI, for geospatial data analysis. Proficient in the PMF source apportionment model and the box model based on the MCM mechanism. Additionally, has experience with running mesoscale chemical transport models such as WRF-CMAQ.
+-	**Software Proficiency:** Experienced in specialized GIS software, including ArcGIS and ENVI, for geospatial data analysis. Proficient in the PMF source apportionment model and the box model based on the MCM. Additionally, has experience with running mesoscale chemical transport models such as WRF-CMAQ.
 
 <br>
 
 # 🗺️ Visitor
 <div style="width: 500px; height: 250px; ">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=XrY6sPIyS7p7mfXva17CUDQ1CN_CHCTbbxNk2EV8ZPo"></script>
 </div>
 <script src="https://giscus.app/client.js"
         data-repo="Kaxiercy/Kaxiercy.github.io"
-        data-repo-id="R_kgDOL0jrFg"
+        data-repo-id="R_kgDONck2dA"
         data-category="Q&A"
-        data-category-id="DIC_kwDOL0jrFs4CgRQp"
+        data-category-id="DIC_kwDONck2dM4ClLAr"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="noborder_light"
+        data-theme="preferred_color_scheme"
         data-lang="en"
         data-loading="lazy"
         crossorigin="anonymousanonymous"
