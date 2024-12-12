@@ -1,4 +1,4 @@
-# Yong Cheng - AcadHomepage
+# Yong Cheng - Homepage
 
 **_sass/_sidebar.scss**
 ```
