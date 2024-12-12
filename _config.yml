@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "LIU Zhenhai"
-description              : "PhD Candidate | Ecology"
-repository               : "lzhzlw/lzhzlw.github.io"
+title                    : "Yong Cheng"
+description              : "PhD Candidate | Environmental Science"
+repository               : "Kaxiercy/Kaxiercy.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "LIU Zhenhai"
+  name             : "Yong Cheng"
   avatar           : "images/portrait.jpg"
-  bio              : "University of Chinese Academy of Sciences"
-  location         : "Beijing, China"
-  employer         : #"University of Chinese Academy of Sciences"
+  bio              : "Peking University"
+  location         : "Beijing/Shenzhen, China"
+  employer         : #"Peking University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uOj4SbgAAAAJ"
-  email            : "liuzhenhai5436@igsnrr.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhenhai-Liu-4"
+  googlescholar    : "https://scholar.google.com/citations?user=mP2qiYcAAAAJ"
+  email            : "yongcheng@pku.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yong-Cheng-14"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lzhzlw"
+  github           : "Kaxiercy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lzhzlw"
+  linkedin         : "Kaxiercy"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-1209-4641"
+  orcid            : "https://orcid.org/0000-0001-9590-9548"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
