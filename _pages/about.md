@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=800 size="7">Yong Cheng </font> <br><br>
+<font weight=700 size="6">Yong Cheng </font> <br><br>
 Ph.D. Candidate <br>
 Peking University <br>
 ORCID: 0000-0001-9590-9548 <br>
