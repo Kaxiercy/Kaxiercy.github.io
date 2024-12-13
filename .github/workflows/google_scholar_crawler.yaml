@@ -4,7 +4,7 @@ on:
  page_build: 
  schedule:
  # - cron:  '0 8 * * *'
- - cron: '30 3 * * *'  # 新的每天 3:30 AM UTC
+ - cron: '0 16 * * *'  # UTC+8 24:00
 
 jobs:
   build:
