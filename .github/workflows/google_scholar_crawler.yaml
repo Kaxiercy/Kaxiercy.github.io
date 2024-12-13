@@ -3,7 +3,8 @@ name: Get Citation Data
 on: 
  page_build: 
  schedule:
-  - cron:  '0 8 * * *'
+ # - cron:  '0 8 * * *'
+ - cron: '30 3 * * *'  # 新的每天 3:30 AM UTC
 
 jobs:
   build:
