@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=700 size="6">Yong Cheng </font> <br><br>
+<font weight=700 size="6">Yong Cheng (程 勇) </font> <br><br>
 Ph.D. Candidate <br>
 Peking University <br>
 Advisors: Prof. Ling-Yan He & Prof. Xiao-Feng Huang<br>
