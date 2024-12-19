@@ -81,7 +81,7 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
--	`Cheng Y.`, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2024. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to a few minutes. Journal of Geophysical Research: Atmospheres. (Under review) 
+-	`Cheng Y.`, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2024. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Under review) 
 -	`Cheng Y.`, He L.Y., Huang X.F. 2024. Decoding Ozone Formation Shifts through Big Data and Machine Learning Coupled with MCM-Box Models. (In preparation for submission)
 -	`Cheng Y.`, Huang X.F., He L.Y. 2024. AI-Driven Insights into Isoprene’s Role in Ozone Formation Pathways and Atmospheric Ozone Elevation. (In preparation for submission)
 -	Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science and Technology, 55: 11557-11567.
