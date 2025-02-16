@@ -42,21 +42,21 @@ Major: Physical Geography and Resource Environment <br>
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mP2qiYcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-bottom: 20px;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 15px; margin-bottom: 7px;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Cheng Y.`, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Accept) 
   
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #00008B; font-weight: bold;">《Science of The Total Environment》</div><img src='images/STOTEN_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #00008B; font-weight: bold; margin-top: 15px; margin-bottom: 7px;">《Science of The Total Environment》</div><img src='images/STOTEN_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Cheng Y.`, Peng Y., Cao L.M., Huang X.F., He L.Y. 2024. Identifying the geospatial relationship of surface ozone pollution in China: Implications for key pollution control regions. Science of The Total Environment, 930: 172763.[[DOI]](https://doi.org/10.1016/j.scitotenv.2024.172763) [[Preview]](/pdf_file/1-2024_STOTEN-CY.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #008B8B; font-weight: bold;">《Environmental Pollution》</div><img src='images/EP_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #008B8B; font-weight: bold; margin-top: 15px; margin-bottom: 7px;">《Environmental Pollution》</div><img src='images/EP_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Cheng Y.`, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/1-2022_EP-CY.pdf)
   
@@ -64,7 +64,7 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #006400; font-weight: bold;">《Journal of Environmental Management》</div><img src='images/JEM_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #006400; font-weight: bold; margin-top: 15px; margin-bottom: 7px;">《Journal of Environmental Management》</div><img src='images/JEM_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 -	`Cheng Y.`, He L.Y., Huang X.F. 2021. Development of a high-performance machine learning model to predict ground ozone pollution in typical cities of China. Journal of Environmental Management, 299.[[DOI]](https://doi.org/10.1016/j.jenvman.2021.113670) [[Preview]](/pdf_file/1-2021_JEM-CY.pdf)
@@ -72,7 +72,7 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FFD700; font-weight: bold;">《Journal of Cleaner Production》</div><img src='images/JCP_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FFD700; font-weight: bold; margin-top: 15px; margin-bottom: 7px;">《Journal of Cleaner Production》</div><img src='images/JCP_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 -	`Cheng Y.`, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/1-2021_JCP-CY.pdf)
@@ -80,7 +80,7 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FF4500; font-weight: bold;">《Atmospheric Environment》</div><img src='images/AE_2019.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FF4500; font-weight: bold; margin-top: 15px; margin-bottom: 7px;">《Atmospheric Environment》</div><img src='images/AE_2019.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 -	`Cheng Y.`, Zhang H., Liu Z., Chen L., Wang P. 2019. Hybrid algorithm for short-term forecasting of PM2.5 in China. Atmospheric Environment, 200: 264-279.[[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025) [[Preview]](/pdf_file/1-2019_AE-CY.pdf)
