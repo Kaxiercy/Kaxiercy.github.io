@@ -41,10 +41,6 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mP2qiYcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='images/STOTEN_2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Geophysical Research: Atmospheres</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Cheng Y.`, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Accept) 
@@ -52,6 +48,8 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='images/STOTEN_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 -	`Cheng Y.`, Peng Y., Cao L.M., Huang X.F., He L.Y. 2024. Identifying the geospatial relationship of surface ozone pollution in China: Implications for key pollution control regions. Science of The Total Environment, 930: 172763.[[DOI]](https://doi.org/10.1016/j.scitotenv.2024.172763) [[Preview]](/pdf_file/1-2024_STOTEN-CY.pdf)
 
 </div>
