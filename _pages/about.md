@@ -44,7 +44,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- <span style="font-weight: bold; text-decoration: underline;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Accept) 
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Accept) 
   
 </div>
 </div>
@@ -58,7 +58,7 @@ Major: Physical Geography and Resource Environment <br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #008B8B; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Environmental Pollution》</div><img src='images/EP_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Cheng Y.`, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/1-2022_EP-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/1-2022_EP-CY.pdf)
   
 </div>
 </div>
@@ -67,7 +67,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #006400; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Environmental Management》</div><img src='images/JEM_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
--	`Cheng Y.`, He L.Y., Huang X.F. 2021. Development of a high-performance machine learning model to predict ground ozone pollution in typical cities of China. Journal of Environmental Management, 299.[[DOI]](https://doi.org/10.1016/j.jenvman.2021.113670) [[Preview]](/pdf_file/1-2021_JEM-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, He L.Y., Huang X.F. 2021. Development of a high-performance machine learning model to predict ground ozone pollution in typical cities of China. Journal of Environmental Management, 299.[[DOI]](https://doi.org/10.1016/j.jenvman.2021.113670) [[Preview]](/pdf_file/1-2021_JEM-CY.pdf)
 
 </div>
 </div>
@@ -75,7 +75,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FFD700; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Cleaner Production》</div><img src='images/JCP_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
--	`Cheng Y.`, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/1-2021_JCP-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/1-2021_JCP-CY.pdf)
 
 </div>
 </div>
@@ -83,13 +83,13 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FF4500; font-weight: bold; margin-top: 15px; margin-bottom: 7px;text-align: center; margin: 0 auto;">《Atmospheric Environment》</div><img src='images/AE_2019.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
--	`Cheng Y.`, Zhang H., Liu Z., Chen L., Wang P. 2019. Hybrid algorithm for short-term forecasting of PM2.5 in China. Atmospheric Environment, 200: 264-279.[[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025) [[Preview]](/pdf_file/1-2019_AE-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Zhang H., Liu Z., Chen L., Wang P. 2019. Hybrid algorithm for short-term forecasting of PM2.5 in China. Atmospheric Environment, 200: 264-279.[[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025) [[Preview]](/pdf_file/1-2019_AE-CY.pdf)
 
 </div>
 </div>
 
--	`Cheng Y.`, He L.Y., Huang X.F. 2024. Decoding Ozone Formation Shifts through Big Data and Machine Learning Coupled with MCM-Box Models. (In preparation for submission)
--	`Cheng Y.`, Huang X.F., He L.Y. 2024. AI-Driven Insights into Isoprene’s Role in Ozone Formation Pathways and Atmospheric Ozone Elevation. (In preparation for submission)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, He L.Y., Huang X.F. 2024. Decoding Ozone Formation Shifts through Big Data and Machine Learning Coupled with MCM-Box Models. (In preparation for submission)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., He L.Y. 2024. AI-Driven Insights into Isoprene’s Role in Ozone Formation Pathways and Atmospheric Ozone Elevation. (In preparation for submission)
 -	Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science and Technology, 55: 11557-11567.
 -	Huang X.F., Peng Y., Wei J., Peng J., Lin X.Y., Tang M.X., `Cheng Y.`, Men Z., Fang T., Zhang J., He L.Y., Cao L.M., Liu C., Zhang C., Mao H., Seinfeld J.H., Wang Y. 2024. Microphysical complexity of black carbon particles restricts their warming potential. One Earth, 7: 136-145.
 -	Peng X., Xie T.T., Tang M.X., `Cheng Y.`, Peng Y., Wei F.H., Cao L.M., Yu K., Du K., He L.Y., Huang X.F. 2023a. Critical Role of Secondary Organic Aerosol in Urban Atmospheric Visibility Improvement Identified by Machine Learning. Environmental Science & Technology Letters, 10: 976-982.
