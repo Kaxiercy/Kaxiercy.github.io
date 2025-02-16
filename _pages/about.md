@@ -44,7 +44,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Cheng Y.`, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Accept) 
+- <span style="font-weight: bold; text-decoration: underline;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X, Wu J, He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: from one-hour to Five minutes. Journal of Geophysical Research: Atmospheres. (Accept) 
   
 </div>
 </div>
