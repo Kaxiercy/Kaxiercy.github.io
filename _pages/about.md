@@ -51,7 +51,7 @@ Major: Physical Geography and Resource Environment <br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #00008B; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Science of The Total Environment》</div><img src='images/STOTEN_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	<span style="font-weight: bold; text-decoration: underline;">`Cheng Y.`</span>, Peng Y., Cao L.M., Huang X.F., He L.Y. 2024. Identifying the geospatial relationship of surface ozone pollution in China: Implications for key pollution control regions. Science of The Total Environment, 930: 172763.[[DOI]](https://doi.org/10.1016/j.scitotenv.2024.172763) [[Preview]](/pdf_file/1-2024_STOTEN-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Cao L.M., Huang X.F., He L.Y. 2024. Identifying the geospatial relationship of surface ozone pollution in China: Implications for key pollution control regions. Science of The Total Environment, 930: 172763.[[DOI]](https://doi.org/10.1016/j.scitotenv.2024.172763) [[Preview]](/pdf_file/1-2024_STOTEN-CY.pdf)
 
 </div>
 </div>
