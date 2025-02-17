@@ -13,7 +13,7 @@ author_profile: true
     <img src='album/2023_May_underground.jpg' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
-    May 2023, Beijing
+    Feb 2025, Beijing
   </div>
 </div>
 
