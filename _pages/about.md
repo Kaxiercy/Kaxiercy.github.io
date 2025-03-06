@@ -105,8 +105,8 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🏅 Scholarships & Honors
--	National Scholarship (2021, the highest national honor for students in China)
 -	Peking University May 4th Scholarship (2024, the highest honor for students at Peking University)
+-	National Scholarship (2021, the highest national honor for students in China)
 -	Peking University CIB Scholarship (2022)
 -	Peking University Academic Innovation Award (2023 - 2024, < 1%)
 -	Peking University Merit Student (2019 - 2020)
