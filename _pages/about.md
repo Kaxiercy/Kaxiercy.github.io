@@ -119,6 +119,7 @@ Major: Physical Geography and Resource Environment <br>
 -	1st Prize, Final Academic Competition, 31st Peking University "Challenge Cup" May Fourth Youth Science Award (2023, First Contributor)
 -	2nd Prize, Final Academic Competition, 32nd Peking University "Challenge Cup" May Fourth Youth Science Award (2024, First Contributor)
 -	Best Poster Award at the 5th National Symposium on Prevention and Control of Atmospheric Ozone Pollution (2023)
+-	Outstanding Oral Presentation Award at the 2nd Future Particles Frontier Forum (2025)
 - Outstanding Graduate of Shanxi University (2019)
 - First-Class Outstanding Student Scholarship, Shanxi University (2016)
 - First-Class Outstanding Student Scholarship, Shanxi University (2017)
@@ -140,6 +141,7 @@ Major: Physical Geography and Resource Environment <br>
 - In May 2019, as a member of the Chinese university student delegation, visited various research institutions in Japan for academic exchanges.
 - In May 2023, participated in the 5th National Symposium on Atmospheric Ozone Pollution Prevention and Control (Wuhan, China) and presented a poster, winning the Best Poster Award.
 - In December 2023, attended the AGU23 Fall Meeting (San Francisco, USA) and presented a poster, which garnered positive feedback.
+- In April 2025, participated in the 2nd Future Particles Frontier Forum (Xi'an, China) and delivered an oral presentation, winning the Outstanding Oral Presentation Award.
 
 <br>
 
