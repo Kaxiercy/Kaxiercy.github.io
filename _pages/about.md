@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <font weight=700 size="6">Yong Cheng (程 勇) </font> <br><br>
-Ph.D. Candidate <br>
+Ph.D. <br>
 Peking University <br>
 Advisors: Prof. Ling-Yan He & Prof. Xiao-Feng Huang<br>
 Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br> 
@@ -32,7 +32,7 @@ The current main theme of the research is based on environmental big data, integ
 <br>
 
 # 🎓 Education
-**Ph.D. (2019–Present) | Peking University, Beijing/Shenzhen, China** <br>
+**Ph.D. (2019–2025) | Peking University, Beijing/Shenzhen, China** <br>
 Major: Environmental Science (Atmospheric Environmental Science specialization) <br>
 
 **B.S.   (2015–2019) | Shanxi University, Taiyuan, China** <br>
@@ -103,8 +103,10 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🏅 Scholarships & Honors
+- Outstanding Graduate of Beijing Municipality (2025)
+- Outstanding Graduate of Peking University (2025)
+- National Scholarship (2021, the highest national honor for students in China)
 -	Peking University May 4th Scholarship (2024, the highest honor for students at Peking University)
--	National Scholarship (2021, the highest national honor for students in China)
 -	Peking University CIB Scholarship (2022)
 -	Peking University Academic Innovation Award (2023-2024, <1%)
 -	Peking University Merit Student (2019-2020)
