@@ -19,7 +19,7 @@ redirect_from:
 
 <font weight=700 size="6">Yong Cheng (程 勇) </font> <br><br>
 Ph.D. <br>
-Peking University <br>
+Peking University (北京大学) <br>
 Advisors: Prof. Ling-Yan He & Prof. Xiao-Feng Huang<br>
 Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br> 
 
