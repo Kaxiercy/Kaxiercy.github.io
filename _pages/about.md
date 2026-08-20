@@ -156,7 +156,8 @@ Major: Physical Geography and Resource Environment <br>
 - **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025.  
   Oral presentation; **Outstanding Oral Presentation Award**.
 - **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
-- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023.
+- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023.  
+  Poster presentation; **Best Poster Award**.
 - Academic exchange visit to research institutions in Japan as a member of a Chinese university student delegation, May 2019.
 <br>
 
