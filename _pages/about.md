@@ -159,8 +159,6 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🗺️ Visitor
-<h2>🗺️ Visitor</h2>
-
 <div style="max-width: 500px; margin: 0 auto;">
   <script type="text/javascript"
           id="mapmyvisitors"
