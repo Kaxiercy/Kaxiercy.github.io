@@ -133,16 +133,31 @@ Major: Physical Geography and Resource Environment <br>
 
 <br>
 
-# 🏛️ Research Practice & Academic Exchange
-- Ministry of Science and Technology, Key R&D Program Project, No. 2023YFC3705101, "High-Sensitivity Airborne Detection Technology for Multi-Pollutants and Cloud Water Chemistry," 2023-2027, ongoing. Participated in project application and report writing.
-- Ministry of Science and Technology, Key R&D Program Project, No. 2018YFC0213904, "Coupled Formation Mechanism of Secondary Aerosols and Ozone Pollution in the Guangdong-Hong Kong-Macao Region," 2018-2021, completed. Involved in data collection, software development, and report writing.
-- Guangdong Provincial Department of Science and Technology, Key Area R&D Program Project, No. 2020B1111360003, "Development and Demonstration of Key Technologies for Rapid Ozone Pollution Early Warning and Precise Response," 2021-2024, completed. Participated in VOCs sampling and algorithm development.
-- Shenzhen Science and Technology Innovation Commission, Shenzhen Science and Technology Program Project, No. KCXFZ202002011006340, "Development and Demonstration of High-Resolution Three-Dimensional Monitoring Technology for Ozone and Its Precursors," 2020-2023, completed. Responsible for airspace application, UAV vertical sampling of atmospheric pollutants, and data analysis.
-- In May 2019, as a member of the Chinese university student delegation, visited various research institutions in Japan for academic exchanges.
-- In May 2023, participated in the 5th National Symposium on Atmospheric Ozone Pollution Prevention and Control (Wuhan, China).
-- In December 2023, attended the AGU23 Fall Meeting (San Francisco, USA).
-- In April 2025, participated in the 2nd Future Particles Frontier Forum (Xi'an, China).
+# 🏛️ Research Funding & Projects
+### Principal Investigator
+- **China Postdoctoral Science Foundation, General Program**, 2026–2028.  
+  **Principal Investigator.**
+  
+### Selected Collaborative Projects
+- **National Key R&D Program of China**, 2023–2027.
+  Project participant.
+- **National Key R&D Program of China**, 2018–2021.  
+  Project participant.
+- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  
+  Project participant.
+- **Shenzhen Science and Technology Program**, 2020–2023.  
+  Project participant.
 
+# 🎤 Selected Academic Presentations & Exchange
+- **EGU General Assembly 2026**, Vienna, Austria, April 2026.  
+  Poster presentation.
+- **2025 VOCs International Joint Conference**, Guangzhou, China, November 2025.  
+  Oral presentation.
+- **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025.  
+  Oral presentation; **Outstanding Oral Presentation Award**.
+- **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
+- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023.
+- Academic exchange visit to research institutions in Japan as a member of a Chinese university student delegation, May 2019.
 <br>
 
 # 🦾 Skills & Expertise
