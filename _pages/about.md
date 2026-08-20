@@ -152,9 +152,13 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🗺️ Visitor
-<div style="width: 500px; height: 250px; ">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=XrY6sPIyS7p7mfXva17CUDQ1CN_CHCTbbxNk2EV8ZPo"></script>
+<div style="text-align: center;">
+  <script type="text/javascript"
+          id="mapmyvisitors"
+          src="https://mapmyvisitors.com/map.js?d=AfJaTaS96exh5MEGs5gBDkZc6rulGFKgNuKopm1_fCU&cl=ffffff&w=a">
+  </script>
 </div>
+
 <script src="https://giscus.app/client.js"
         data-repo="Kaxiercy/Kaxiercy.github.io"
         data-repo-id="R_kgDONck2dA"
@@ -168,6 +172,6 @@ Major: Physical Geography and Resource Environment <br>
         data-theme="preferred_color_scheme"
         data-lang="en"
         data-loading="lazy"
-        crossorigin="anonymousanonymous"
+        crossorigin="anonymous"
         async>
 </script>
