@@ -135,29 +135,20 @@ Major: Physical Geography and Resource Environment <br>
 
 # 🏛️ Research Funding & Projects
 ### Principal Investigator
-- **China Postdoctoral Science Foundation, General Program**, 2026–2028.  
-  **Principal Investigator.**
-  
+- **China Postdoctoral Science Foundation, General Program**, 2026–2027.  Principal Investigator.
+
 ### Selected Collaborative Projects
-- **National Key R&D Program of China**, 2023–2027.
-  Project participant.
-- **National Key R&D Program of China**, 2018–2021.  
-  Project participant.
-- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  
-  Project participant.
-- **Shenzhen Science and Technology Program**, 2020–2023.  
-  Project participant.
+- **National Key R&D Program of China**, 2023–2027.  Project participant.
+- **National Key R&D Program of China**, 2018–2021.  Project participant.
+- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  Project participant.
+- **Shenzhen Science and Technology Program**, 2020–2023.  Project participant.
 
 # 🎤 Selected Academic Presentations & Exchange
-- **EGU General Assembly 2026**, Vienna, Austria, April 2026.  
-  Poster presentation.
-- **2025 VOCs International Joint Conference**, Guangzhou, China, November 2025.  
-  Oral presentation.
-- **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025.  
-  Oral presentation; **Outstanding Oral Presentation Award**.
-- **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
-- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023.  
-  Poster presentation; **Best Poster Award**.
+- **EGU General Assembly 2026**, Vienna, Austria, April 2026.  Poster presentation.
+- **2025 VOCs International Joint Conference**, Guangzhou, China, November 2025.  Oral presentation.
+- **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025.  Oral presentation; **Outstanding Oral Presentation Award**.
+- **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.  Poster presentation.
+- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023.  Poster presentation; **Best Poster Award**.
 - Academic exchange visit to research institutions in Japan as a member of a Chinese university student delegation, May 2019.
 <br>
 
