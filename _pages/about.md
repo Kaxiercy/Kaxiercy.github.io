@@ -39,7 +39,18 @@ Major: Environmental Science (Atmospheric Environmental Science specialization) 
 Major: Physical Geography and Resource Environment <br>
 
 <br>
+# 🏛️ Research Funding & Projects
+### Research Grants as Principal Investigator
+- **National Natural Science Foundation of China (NSFC), Young Scientists Fund**, 2027–2029.
+- **China Postdoctoral Science Fund, General Program**, 2026–2027.
 
+### Selected Collaborative Projects
+- **National Key R&D Program of China**, 2023–2027.  Project participant.
+- **National Key R&D Program of China**, 2018–2021.  Project participant.
+- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  Project participant.
+- **Shenzhen Science and Technology Program**, 2020–2023.  Project participant.
+
+<br>
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mP2qiYcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
@@ -132,17 +143,6 @@ Major: Physical Geography and Resource Environment <br>
 -	1st Prize, 16th "Xingjin Challenge Cup" Academic and Technological Works Competition, Shanxi Province (2019, First Contributor)
 
 <br>
-
-# 🏛️ Research Funding & Projects
-### Research Grants as Principal Investigator
-- **National Natural Science Foundation of China (NSFC), Young Scientists Fund**, 2027–2029.
-- **China Postdoctoral Science Fund, General Program**, 2026–2027.
-
-### Selected Collaborative Projects
-- **National Key R&D Program of China**, 2023–2027.  Project participant.
-- **National Key R&D Program of China**, 2018–2021.  Project participant.
-- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  Project participant.
-- **Shenzhen Science and Technology Program**, 2020–2023.  Project participant.
 
 # 🎤 Selected Academic Presentations & Exchange
 - **EGU General Assembly 2026**, Vienna, Austria, April 2026.
