@@ -38,18 +38,6 @@ Major: Environmental Science (Atmospheric Environmental Science specialization) 
 **B.S.   (2015–2019) | Shanxi University, Taiyuan, China** <br>
 Major: Physical Geography and Resource Environment <br>
 
-
-# 🏛️ Research Funding & Projects
-### Research Grants as Principal Investigator
-- **National Natural Science Foundation of China (NSFC), Young Scientists Fund**, 2027–2029.
-- **China Postdoctoral Science Fund, General Program**, 2026–2027.
-
-### Selected Collaborative Projects
-- **National Key R&D Program of China**, 2023–2027.  Project participant.
-- **National Key R&D Program of China**, 2018–2021.  Project participant.
-- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  Project participant.
-- **Shenzhen Science and Technology Program**, 2020–2023.  Project participant.
-
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mP2qiYcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
@@ -112,6 +100,26 @@ Major: Physical Geography and Resource Environment <br>
 
 <br>
 
+# 🏛️ Research Funding & Projects
+### Research Grants as Principal Investigator
+- **National Natural Science Foundation of China (NSFC), Young Scientists Fund**, 2027–2029.
+- **China Postdoctoral Science Fund, General Program**, 2026–2027.
+
+### Selected Collaborative Projects
+- **National Key R&D Program of China**, 2023–2027.  Project participant.
+- **National Key R&D Program of China**, 2018–2021.  Project participant.
+- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  Project participant.
+- **Shenzhen Science and Technology Program**, 2020–2023.  Project participant.
+
+# 🎤 Selected Academic Presentations & Exchange
+- **EGU General Assembly 2026**, Vienna, Austria, April 2026.
+- **2025 VOCs International Joint Conference**, Guangzhou, China, November 2025.
+- **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025. **Outstanding Oral Presentation Award**.
+- **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
+- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023. **Best Poster Award**.
+- Academic exchange visit to research institutions in Japan as a member of a Chinese university student delegation, May 2019.
+<br>
+
 # 🏅 Scholarships & Honors
 - Outstanding Graduate of Beijing Municipality (2025)
 - Outstanding Graduate of Peking University (2025)
@@ -140,16 +148,6 @@ Major: Physical Geography and Resource Environment <br>
 - Shanxi University Merit Student (2018-2019)
 -	1st Prize, 19th "Innovation Challenge Cup" Academic and Technological Works Competition, Shanxi University (2019, First Contributor)
 -	1st Prize, 16th "Xingjin Challenge Cup" Academic and Technological Works Competition, Shanxi Province (2019, First Contributor)
-
-<br>
-
-# 🎤 Selected Academic Presentations & Exchange
-- **EGU General Assembly 2026**, Vienna, Austria, April 2026.
-- **2025 VOCs International Joint Conference**, Guangzhou, China, November 2025.
-- **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025. **Outstanding Oral Presentation Award**.
-- **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
-- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023. **Best Poster Award**.
-- Academic exchange visit to research institutions in Japan as a member of a Chinese university student delegation, May 2019.
 <br>
 
 # 🦾 Skills & Expertise
