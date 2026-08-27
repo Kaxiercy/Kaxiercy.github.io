@@ -102,8 +102,8 @@ Major: Physical Geography and Resource Environment <br>
 
 # 🏛️ Research Funding & Projects
 ### Research Grants as Principal Investigator
-- **National Natural Science Foundation of China (NSFC), Young Scientists Fund**, 2027–2029.
-- **China Postdoctoral Science Fund, General Program**, 2026–2027.
+- **National Natural Science Foundation of China (NSFC), Young Scientists Fund** (2026).
+- **China Postdoctoral Science Fund, General Program** (2026).
 
 ### Selected Collaborative Projects
 - **National Key R&D Program of China**, 2023–2027.  Project participant.
