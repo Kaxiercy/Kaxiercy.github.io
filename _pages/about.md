@@ -102,21 +102,21 @@ Major: Physical Geography and Resource Environment <br>
 
 # 🏛️ Research Funding & Projects
 ### Research Grants as Principal Investigator
-- **National Natural Science Foundation of China (NSFC), Young Scientists Fund** (2026).
-- **China Postdoctoral Science Fund, General Program** (2026).
+- National Natural Science Foundation of China (NSFC), Young Scientists Fund (2026).
+- China Postdoctoral Science Fund, General Program (2026).
 
 ### Selected Collaborative Projects
-- **National Key R&D Program of China**, 2023–2027.  Project participant.
-- **National Key R&D Program of China**, 2018–2021.  Project participant.
-- **Key-Area R&D Program of Guangdong Province**, 2021–2024.  Project participant.
-- **Shenzhen Science and Technology Program**, 2020–2023.  Project participant.
+- National Key R&D Program of China, 2023–2027.  Project participant.
+- National Key R&D Program of China, 2018–2021.  Project participant.
+- Key-Area R&D Program of Guangdong Province, 2021–2024.  Project participant.
+- Shenzhen Science and Technology Program, 2020–2023.  Project participant.
 
 # 🎤 Selected Academic Presentations & Exchange
-- **EGU General Assembly 2026**, Vienna, Austria, April 2026.
-- **2025 VOCs International Joint Conference**, Guangzhou, China, November 2025.
-- **2nd Future Particles Frontier Forum**, Xi'an, China, April 2025. **Outstanding Oral Presentation Award**.
-- **AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
-- **5th National Symposium on Atmospheric Ozone Pollution Prevention and Control**, Wuhan, China, May 2023. **Best Poster Award**.
+- EGU General Assembly 2026, Vienna, Austria, April 2026.
+- 2025 VOCs International Joint Conference, Guangzhou, China, November 2025.
+- 2nd Future Particles Frontier Forum**, Xi'an, China, April 2025. Outstanding Oral Presentation Award.
+- AGU Fall Meeting 2023**, San Francisco, USA, December 2023.
+- 5th National Symposium on Atmospheric Ozone Pollution Prevention and Control, Wuhan, China, May 2023. Best Poster Award.
 - Academic exchange visit to research institutions in Japan as a member of a Chinese university student delegation, May 2019.
 <br>
 
