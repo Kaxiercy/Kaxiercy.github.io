@@ -40,6 +40,17 @@ Major: Physical Geography and Resource Environment <br>
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mP2qiYcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge" style="color: #005A5A; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">
+《Environmental Science & Technology》
+</div><img src='images/EST_2026.jpg' alt="sym" width="100%"></div>
+</div><div class='paper-box-text' markdown="1">
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. **Accepted.**
+
+</div>
+</div>
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X., Wu J., He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: From one-hour to five minutes. Journal of Geophysical Research: Atmospheres, 130, e2024JD042477.[[DOI]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042477) [[Preview]](/pdf_file/1-2025_JGRA-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
@@ -86,6 +97,8 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
+-	Peng Y., Huang X.F., `Cheng Y.`, Li Z.Y., Chen D.H., Zhou Y., Zeng L.W., Feng N., He L.Y. 2026. Black Carbon Absorption Enhancement During Particle Aging Is Constrained by Size-Dependent Morphological Transition Thresholds. Geophysical Research Letters, 53: e2026GL123886.
+-	Li Z., Peng Y., `Cheng Y.`, Huang X.F., He L.Y. 2026. Comparative study of black carbon mixing state characterization: Evaluating Only-SP2 and CPMA-SP2 techniques for enhanced accuracy. Journal of Environmental Sciences, 161: 568-575.
 -	Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science and Technology, 55: 11557-11567.
 -	Huang X.F., Peng Y., Wei J., Peng J., Lin X.Y., Tang M.X., `Cheng Y.`, Men Z., Fang T., Zhang J., He L.Y., Cao L.M., Liu C., Zhang C., Mao H., Seinfeld J.H., Wang Y. 2024. Microphysical complexity of black carbon particles restricts their warming potential. One Earth, 7: 136-145.
 -	Peng X., Xie T.T., Tang M.X., `Cheng Y.`, Peng Y., Wei F.H., Cao L.M., Yu K., Du K., He L.Y., Huang X.F. 2023a. Critical Role of Secondary Organic Aerosol in Urban Atmospheric Visibility Improvement Identified by Machine Learning. Environmental Science & Technology Letters, 10: 976-982.
