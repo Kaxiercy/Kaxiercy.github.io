@@ -42,7 +42,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="color: #005A5A; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">
+<div class="badge" style="color: #6B3E26; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">
 《Environmental Science & Technology》
 </div><img src='images/EST_2026.jpg' alt="sym" width="100%"></div>
 </div><div class='paper-box-text' markdown="1">
