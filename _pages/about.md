@@ -67,7 +67,7 @@ Major: Physical Geography and Resource Environment <br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #008B8B; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Environmental Pollution》</div><img src='images/EP_2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/1-2022_EP-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Tang M.X., Zhu B., Xia S.Y., He L.Y. 2023. A novel machine learning method for evaluating the impact of emission sources on ozone formation. Environmental Pollution, 316: 120685.[[DOI]](https://doi.org/10.1016/j.envpol.2022.120685) [[Preview]](/pdf_file/1-2022_EP-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
   
 </div>
 </div>
@@ -84,7 +84,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="color: #FFD700; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Cleaner Production》</div><img src='images/JCP_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
--	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/1-2021_JCP-CY.pdf)
+-	<span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Zhu Q., Peng Y., Huang X.F., He L.Y. 2021. Multiple strategies for a novel hybrid forecasting algorithm of ozone based on data-driven models. Journal of Cleaner Production, 326.[[DOI]](https://doi.org/10.1016/j.jclepro.2021.129451) [[Preview]](/pdf_file/1-2021_JCP-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
 
 </div>
 </div>
