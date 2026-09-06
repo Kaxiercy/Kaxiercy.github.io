@@ -97,20 +97,22 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
+### Co-authored Publications
+
+- Peng Y., Huang X.F., `Cheng Y.`, Li Z.Y., Chen D.H., Zhou Y., Zeng L.W., Feng N., He L.Y. 2026. Black Carbon Absorption Enhancement During Particle Aging Is Constrained by Size-Dependent Morphological Transition Thresholds. Geophysical Research Letters, 53: e2026GL123886.
+
+- Huang X.F., Peng Y., Wei J., Peng J., Lin X.Y., Tang M.X., `Cheng Y.`, Men Z., Fang T., Zhang J., He L.Y., Cao L.M., Liu C., Zhang C., Mao H., Seinfeld J.H., Wang Y. 2024. Microphysical complexity of black carbon particles restricts their warming potential. One Earth, 7: 136-145.
+
+- Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science & Technology, 55: 11557-11567.
+
 <details>
-<summary style="cursor: pointer; font-weight: 600; margin: 14px 0;">
-Co-authored Publications
+<summary style="cursor: pointer; margin: 8px 0 14px 0; font-weight: 500;">
+... Show more publications
 </summary>
 
 <div markdown="1">
 
-- Peng Y., Huang X.F., `Cheng Y.`, Li Z.Y., Chen D.H., Zhou Y., Zeng L.W., Feng N., He L.Y. 2026. Black Carbon Absorption Enhancement During Particle Aging Is Constrained by Size-Dependent Morphological Transition Thresholds. Geophysical Research Letters, 53: e2026GL123886.
-
 - Li Z., Peng Y., `Cheng Y.`, Huang X.F., He L.Y. 2026. Comparative study of black carbon mixing state characterization: Evaluating Only-SP2 and CPMA-SP2 techniques for enhanced accuracy. Journal of Environmental Sciences, 161: 568-575.
-
-- Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science and Technology, 55: 11557-11567.
-
-- Huang X.F., Peng Y., Wei J., Peng J., Lin X.Y., Tang M.X., `Cheng Y.`, Men Z., Fang T., Zhang J., He L.Y., Cao L.M., Liu C., Zhang C., Mao H., Seinfeld J.H., Wang Y. 2024. Microphysical complexity of black carbon particles restricts their warming potential. One Earth, 7: 136-145.
 
 - Peng X., Xie T.T., Tang M.X., `Cheng Y.`, Peng Y., Wei F.H., Cao L.M., Yu K., Du K., He L.Y., Huang X.F. 2023a. Critical Role of Secondary Organic Aerosol in Urban Atmospheric Visibility Improvement Identified by Machine Learning. Environmental Science & Technology Letters, 10: 976-982.
 
