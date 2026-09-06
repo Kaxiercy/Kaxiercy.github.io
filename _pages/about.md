@@ -97,20 +97,44 @@ Major: Physical Geography and Resource Environment <br>
 </div>
 </div>
 
--	Peng Y., Huang X.F., `Cheng Y.`, Li Z.Y., Chen D.H., Zhou Y., Zeng L.W., Feng N., He L.Y. 2026. Black Carbon Absorption Enhancement During Particle Aging Is Constrained by Size-Dependent Morphological Transition Thresholds. Geophysical Research Letters, 53: e2026GL123886.
--	Li Z., Peng Y., `Cheng Y.`, Huang X.F., He L.Y. 2026. Comparative study of black carbon mixing state characterization: Evaluating Only-SP2 and CPMA-SP2 techniques for enhanced accuracy. Journal of Environmental Sciences, 161: 568-575.
--	Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science and Technology, 55: 11557-11567.
--	Huang X.F., Peng Y., Wei J., Peng J., Lin X.Y., Tang M.X., `Cheng Y.`, Men Z., Fang T., Zhang J., He L.Y., Cao L.M., Liu C., Zhang C., Mao H., Seinfeld J.H., Wang Y. 2024. Microphysical complexity of black carbon particles restricts their warming potential. One Earth, 7: 136-145.
--	Peng X., Xie T.T., Tang M.X., `Cheng Y.`, Peng Y., Wei F.H., Cao L.M., Yu K., Du K., He L.Y., Huang X.F. 2023a. Critical Role of Secondary Organic Aerosol in Urban Atmospheric Visibility Improvement Identified by Machine Learning. Environmental Science & Technology Letters, 10: 976-982.
--	Peng Y., Cao L.M., Wei J., `Cheng Y.`, Yu K., Du K., Huang X.F. 2023b. Key drivers to heterogeneity evolution of black carbon-containing particles in real atmosphere. Science of The Total Environment, 897: 166394.
--	Tang M.X., Huang X.F., Sun T.L., `Cheng Y.`, Luo Y., Chen Z., Lin X.Y., Cao L.M., Zhai Y.H., He L.Y. 2022. Decisive role of ozone formation control in winter PM2.5 mitigation in Shenzhen, China. Environmental Pollution, 301.
--	Zhu B., Huang X.F., Xia S.Y., Lin L.L., `Cheng Y.`, He L.Y. 2021. Biomass-burning emissions could significantly enhance the atmospheric oxidizing capacity in continental air pollution. Environmental Pollution, 285.
--	Lin L.L., `Cheng Y.`, Cao L.M., Yu G.H., Huang X.F. 2021. The characterization and source apportionment of VOCs in Shenzhen during ozone polluted period. China Environmental Science, 41: 3484-3492.
--	Wang B.X., `Cheng Y.`, Yu G.H., Li X., Wang H.C., Zheng Z.L., Zeng L.W., Huang X.F. 2024. Vertical distribution monitoring of near-surface atmospheric VOCs in Shenzhen based on UAV-borne. China Environmental Science, 44: 3021-3029.
--	Tang M.X., Huang X.F., `Cheng Y.`, Lin X.Y., Yao P.T., He L.Y. 2023. Study on characterizing the spatial distribution of activity of photochemistry in summer and autumn in Guangdong Province, China. China Environmental Science, 43: 1-6.
--	Cui Z.Y., Qiu Z.C., Sun T.L., `Cheng Y.`, Wang B.X., Huang X.F., He L.Y. 2023. Vertical distribution of day-time volatile organic compounds in the near-surface atmosphere in Shenzhen. Acta Scientiae Circumstantiae, 43: 226-234.
--	Chen Y., Zhu B., Huang P.R., `Cheng Y.`, He L.Y., Huang X.F. 2022. Characteristics for ambient volatile organic compounds in the eastern coastal area in Shenzhen，China. Acta Scientiae Circumstantiae, 42: 295-305.
+<details>
+<summary style="cursor: pointer; font-weight: 600; margin: 14px 0;">
+Co-authored Publications
+</summary>
 
+<div markdown="1">
+
+- Peng Y., Huang X.F., `Cheng Y.`, Li Z.Y., Chen D.H., Zhou Y., Zeng L.W., Feng N., He L.Y. 2026. Black Carbon Absorption Enhancement During Particle Aging Is Constrained by Size-Dependent Morphological Transition Thresholds. Geophysical Research Letters, 53: e2026GL123886.
+
+- Li Z., Peng Y., `Cheng Y.`, Huang X.F., He L.Y. 2026. Comparative study of black carbon mixing state characterization: Evaluating Only-SP2 and CPMA-SP2 techniques for enhanced accuracy. Journal of Environmental Sciences, 161: 568-575.
+
+- Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science and Technology, 55: 11557-11567.
+
+- Huang X.F., Peng Y., Wei J., Peng J., Lin X.Y., Tang M.X., `Cheng Y.`, Men Z., Fang T., Zhang J., He L.Y., Cao L.M., Liu C., Zhang C., Mao H., Seinfeld J.H., Wang Y. 2024. Microphysical complexity of black carbon particles restricts their warming potential. One Earth, 7: 136-145.
+
+- Peng X., Xie T.T., Tang M.X., `Cheng Y.`, Peng Y., Wei F.H., Cao L.M., Yu K., Du K., He L.Y., Huang X.F. 2023a. Critical Role of Secondary Organic Aerosol in Urban Atmospheric Visibility Improvement Identified by Machine Learning. Environmental Science & Technology Letters, 10: 976-982.
+
+- Peng Y., Cao L.M., Wei J., `Cheng Y.`, Yu K., Du K., Huang X.F. 2023b. Key drivers to heterogeneity evolution of black carbon-containing particles in real atmosphere. Science of The Total Environment, 897: 166394.
+
+- Tang M.X., Huang X.F., Sun T.L., `Cheng Y.`, Luo Y., Chen Z., Lin X.Y., Cao L.M., Zhai Y.H., He L.Y. 2022. Decisive role of ozone formation control in winter PM2.5 mitigation in Shenzhen, China. Environmental Pollution, 301.
+
+- Zhu B., Huang X.F., Xia S.Y., Lin L.L., `Cheng Y.`, He L.Y. 2021. Biomass-burning emissions could significantly enhance the atmospheric oxidizing capacity in continental air pollution. Environmental Pollution, 285.
+
+- Lin L.L., `Cheng Y.`, Cao L.M., Yu G.H., Huang X.F. 2021. The characterization and source apportionment of VOCs in Shenzhen during ozone polluted period. China Environmental Science, 41: 3484-3492.
+
+- Wang B.X., `Cheng Y.`, Yu G.H., Li X., Wang H.C., Zheng Z.L., Zeng L.W., Huang X.F. 2024. Vertical distribution monitoring of near-surface atmospheric VOCs in Shenzhen based on UAV-borne. China Environmental Science, 44: 3021-3029.
+
+- Tang M.X., Huang X.F., `Cheng Y.`, Lin X.Y., Yao P.T., He L.Y. 2023. Study on characterizing the spatial distribution of activity of photochemistry in summer and autumn in Guangdong Province, China. China Environmental Science, 43: 1-6.
+
+- Cui Z.Y., Qiu Z.C., Sun T.L., `Cheng Y.`, Wang B.X., Huang X.F., He L.Y. 2023. Vertical distribution of day-time volatile organic compounds in the near-surface atmosphere in Shenzhen. Acta Scientiae Circumstantiae, 43: 226-234.
+
+- Chen Y., Zhu B., Huang P.R., `Cheng Y.`, He L.Y., Huang X.F. 2022. Characteristics for ambient volatile organic compounds in the eastern coastal area in Shenzhen, China. Acta Scientiae Circumstantiae, 42: 295-305.
+
+</div>
+
+</details>
+
+<br>
 <br>
 
 # 🏛️ Research Funding & Projects
@@ -134,23 +158,26 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🏅 Scholarships & Honors
+### Graduate Study | Peking University (2019–2025)
 - Outstanding Graduate of Beijing Municipality (2025)
 - Outstanding Graduate of Peking University (2025)
 - National Scholarship (2021, the highest national honor for students in China)
--	Peking University May 4th Scholarship (2024, the highest honor for students at Peking University)
--	Peking University CIB Scholarship (2022)
--	Peking University Academic Innovation Award (2023-2024, <1%)
--	Peking University Merit Student (2019-2020)
--	Peking University Merit Student (2020-2021)
--	Peking University Merit Student (2021-2022)
--	Peking University Merit Student (2022-2023)
--	Peking University Merit Student (2023-2024)
--	1st Prize, Final Academic Competition, 29th Peking University "Challenge Cup" May Fourth Youth Science Award (2021, First Contributor)
--	3rd Prize, Final Academic Competition, 30th Peking University "Challenge Cup" May Fourth Youth Science Award (2022, First Contributor)
--	1st Prize, Final Academic Competition, 31st Peking University "Challenge Cup" May Fourth Youth Science Award (2023, First Contributor)
--	2nd Prize, Final Academic Competition, 32nd Peking University "Challenge Cup" May Fourth Youth Science Award (2024, First Contributor)
--	Best Poster Award at the 5th National Symposium on Prevention and Control of Atmospheric Ozone Pollution (2023)
--	Outstanding Oral Presentation Award at the 2nd Future Particles Frontier Forum (2025)
+- Peking University May 4th Scholarship (2024, the highest honor for students at Peking University)
+- Peking University CIB Scholarship (2022)
+- Peking University Academic Innovation Award (2023-2024, <1%)
+- Peking University Merit Student (2019-2020)
+- Peking University Merit Student (2020-2021)
+- Peking University Merit Student (2021-2022)
+- Peking University Merit Student (2022-2023)
+- Peking University Merit Student (2023-2024)
+- 1st Prize, Final Academic Competition, 29th Peking University "Challenge Cup" May Fourth Youth Science Award (2021, First Contributor)
+- 3rd Prize, Final Academic Competition, 30th Peking University "Challenge Cup" May Fourth Youth Science Award (2022, First Contributor)
+- 1st Prize, Final Academic Competition, 31st Peking University "Challenge Cup" May Fourth Youth Science Award (2023, First Contributor)
+- 2nd Prize, Final Academic Competition, 32nd Peking University "Challenge Cup" May Fourth Youth Science Award (2024, First Contributor)
+- Best Poster Award at the 5th National Symposium on Prevention and Control of Atmospheric Ozone Pollution (2023)
+- Outstanding Oral Presentation Award at the 2nd Future Particles Frontier Forum (2025)
+
+### Undergraduate Study | Shanxi University (2015–2019)
 - Outstanding Graduate of Shanxi University (2019)
 - First-Class Outstanding Student Scholarship, Shanxi University (2016)
 - First-Class Outstanding Student Scholarship, Shanxi University (2017)
@@ -159,8 +186,9 @@ Major: Physical Geography and Resource Environment <br>
 - Shanxi University Merit Student (2015-2016)
 - Shanxi University Merit Student (2016-2017)
 - Shanxi University Merit Student (2018-2019)
--	1st Prize, 19th "Innovation Challenge Cup" Academic and Technological Works Competition, Shanxi University (2019, First Contributor)
--	1st Prize, 16th "Xingjin Challenge Cup" Academic and Technological Works Competition, Shanxi Province (2019, First Contributor)
+- 1st Prize, 19th "Innovation Challenge Cup" Academic and Technological Works Competition, Shanxi University (2019, First Contributor)
+- 1st Prize, 16th "Xingjin Challenge Cup" Academic and Technological Works Competition, Shanxi Province (2019, First Contributor)
+
 <br>
 
 # 🦾 Skills & Expertise
