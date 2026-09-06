@@ -165,7 +165,9 @@ Major: Physical Geography and Resource Environment <br>
 
 # 🦾 Skills & Expertise
 -	**Programming and Software Development:** Proficient in Python, R, and MATLAB for the development and application of AI technologies in the atmospheric environment field. Skilled in big data processing, analysis, and visualization. Capable of independently completing the full-stack development process, including backend databases, frontend UI design, and software deployment. Developed various research tool applications, both online and offline.
--	**Software Proficiency:** Experienced in specialized GIS software, including ArcGIS and ENVI, for geospatial data analysis. Proficient in the PMF source apportionment model and the box model based on the MCM. Additionally, has experience with running mesoscale chemical transport models such as WRF-CMAQ.
+-	**Programming & Data Science:** Proficient in Python, R, and MATLAB for environmental data analysis, machine learning, statistical modeling, scientific visualization, and research software development. Experienced in processing and analyzing large-scale atmospheric observational and model datasets.
+-	**Atmospheric Modeling:** Experienced with atmospheric chemistry and air-quality models, including MCM-based box models, PMF source apportionment, and WRF-CMAQ. Familiar with the development and application of trajectory and Lagrangian transport models.
+-	**Geospatial Analysis:** Experienced with ArcGIS, ENVI, and Python-based geospatial tools for spatial analysis, mapping, and the integration of ground-based, meteorological, and remote-sensing datasets.
 
 <br>
 
