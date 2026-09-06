@@ -26,8 +26,8 @@ Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br>
 
 <br>
 
-# 🧐 Research Experience
-The current main theme of the research is based on environmental big data, integrating AI techniques with traditional mechanistic models to conduct an in-depth analysis of the causes and spatial-temporal sources of atmospheric pollution. This work aspires to offer not only a novel scientific perspective but also vital strategic support for global efforts to mitigate air pollution, ultimately contributing to the sustainable survival and well-being of humanity.
+# 🧐 Research Focus
+My research focuses on how atmospheric pollution responds to changes in emissions, climate, and urban environments. By integrating atmospheric observations, environmental big data, AI, and mechanistic models, I aim to uncover the underlying processes and improve our ability to understand and predict air pollution.
 
 <br>
 
