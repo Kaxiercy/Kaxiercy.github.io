@@ -148,7 +148,7 @@ Co-authored Publications
 - Key-Area R&D Program of Guangdong Province, 2021–2024.  Project participant.
 - Shenzhen Science and Technology Program, 2020–2023.  Project participant.
 
-# 🎤 Selected Academic Presentations & Exchange
+# 🎤 Selected Academic Presentations & Exchanges
 - EGU General Assembly 2026, Vienna, Austria, April 2026.
 - 2025 VOCs International Joint Conference, Guangzhou, China, November 2025.
 - 2nd Future Particles Frontier Forum, Xi'an, China, April 2025. Outstanding Oral Presentation Award.
