@@ -231,10 +231,7 @@ Major: Physical Geography and Resource Environment <br>
   <div class="visitor-footer">
     <div class="visitor-legend">
       <span class="visitor-legend-dot" aria-hidden="true"></span>
-      <span>Point size reflects visit count</span>
-    </div>
-    <div class="visitor-note">Approximate IP geolocation · Raw IP addresses are not stored</div>
-  </div>
+
 </div>
 
 <script src="{{ '/assets/visitor/echarts.min.js' | relative_url }}" defer></script>
