@@ -204,36 +204,73 @@ Major: Physical Geography and Resource Environment <br>
 <link rel="stylesheet" href="{{ '/assets/visitor/visitor.css' | relative_url }}">
 
 <div class="visitor-dashboard">
+
   <div class="visitor-metrics" aria-label="Visitor statistics">
+
     <div class="visitor-metric">
       <span class="visitor-metric-value" id="visitor-total">–</span>
       <span class="visitor-metric-label">Visits</span>
     </div>
+
     <div class="visitor-metric">
       <span class="visitor-metric-value" id="visitor-unique">–</span>
       <span class="visitor-metric-label">Unique Visitors</span>
     </div>
+
     <div class="visitor-metric">
       <span class="visitor-metric-value" id="visitor-countries">–</span>
       <span class="visitor-metric-label">Countries</span>
     </div>
+
     <div class="visitor-metric">
       <span class="visitor-metric-value" id="visitor-cities">–</span>
       <span class="visitor-metric-label">Cities</span>
     </div>
+
   </div>
+
 
   <div class="visitor-map-shell">
-    <div id="visitor-map" role="img" aria-label="World map of approximate visitor locations"></div>
-    <div class="visitor-map-loading" id="visitor-map-loading">Loading visitor map…</div>
+
+    <div
+      id="visitor-map"
+      role="img"
+      aria-label="World map of approximate visitor locations">
+    </div>
+
+    <div
+      class="visitor-map-loading"
+      id="visitor-map-loading">
+      Loading visitor map…
+    </div>
+
   </div>
 
+
   <div class="visitor-footer">
+
     <div class="visitor-legend">
       <span class="visitor-legend-dot" aria-hidden="true"></span>
+      <span>Point size reflects visit count</span>
+    </div>
+
+    <div class="visitor-note">
+      Approximate IP geolocation · Raw IP addresses are not stored
+      <br>
+      This product includes GeoLite data created by MaxMind.
+    </div>
+
+  </div>
 
 </div>
 
-<script src="{{ '/assets/visitor/echarts.min.js' | relative_url }}" defer></script>
 
-<script src="{{ '/assets/visitor/visitor.js' | relative_url }}" defer></script>
+<script
+  src="{{ '/assets/visitor/echarts.min.js' | relative_url }}"
+  defer>
+</script>
+
+<script
+  src="{{ '/assets/visitor/visitor.js' | relative_url }}"
+  defer>
+</script>
