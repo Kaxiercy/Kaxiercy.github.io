@@ -1,10 +1,10 @@
-/* Yong Cheng Homepage — Visitor Map */
+/* Yong Cheng Homepage — Visitor Map v2 */
 (() => {
   "use strict";
 
   const API = "https://kaxiercy-visitor-api.chengyongyc.workers.dev";
-  const WORLD_MAP_URL = "/assets/visitor/world-land.geojson";
-  const MAP_NAME = "visitor-world-land";
+  const WORLD_MAP_URL = "/assets/visitor/world-countries.geojson";
+  const MAP_NAME = "visitor-world-countries";
 
   const $ = (id) => document.getElementById(id);
 
@@ -29,8 +29,13 @@
   }
 
   function precisionText(item) {
-    if (item.geo_precision === "region") return "Approx. regional location";
-    if (item.geo_precision === "country") return "Approx. country location";
+    const radius = Number(item.accuracy_radius_km);
+    if (Number.isFinite(radius) && radius > 0) {
+      return `IP geolocation · approx. ±${radius.toLocaleString("en-US")} km`;
+    }
+    if (item.geo_precision === "city") return "Approximate city-level IP location";
+    if (item.geo_precision === "region") return "Approximate regional IP location";
+    if (item.geo_precision === "country") return "Approximate country-level IP location";
     return "Approximate IP location";
   }
 
@@ -51,10 +56,7 @@
         keepalive: true
       });
 
-      if (!response.ok) {
-        throw new Error(`Visit API returned HTTP ${response.status}`);
-      }
-
+      if (!response.ok) throw new Error(`Visit API returned HTTP ${response.status}`);
       return await response.json();
     } catch (error) {
       console.warn("Visitor visit logging failed:", error);
@@ -89,6 +91,7 @@
         name: formatLocation(item),
         visits: Number(item.visits || 0),
         precision: precisionText(item),
+        source: item.geo_source || "",
         value: [
           Number(item.longitude),
           Number(item.latitude),
@@ -106,7 +109,6 @@
     const isDark = detectDarkMode();
     const chart = window.echarts.init(mapElement, null, { renderer: "canvas" });
     const points = buildPoints(stats.locations);
-
     const maxVisits = Math.max(1, ...points.map((p) => p.visits));
 
     chart.setOption({
@@ -134,7 +136,7 @@
           return [
             `<strong>${data.name}</strong>`,
             `${count.toLocaleString("en-US")} ${count === 1 ? "visit" : "visits"}`,
-            `<span style=\"opacity:.64\">${data.precision}</span>`
+            `<span style="opacity:.64">${data.precision}</span>`
           ].join("<br>");
         }
       },
@@ -146,13 +148,11 @@
         layoutCenter: ["50%", "50%"],
         layoutSize: "106%",
         itemStyle: {
-          areaColor: isDark ? "#273244" : "#edf2f7",
-          borderColor: isDark ? "#3b475a" : "#c5cfda",
-          borderWidth: 0.65
+          areaColor: isDark ? "#273244" : "#eef3f8",
+          borderColor: isDark ? "#617083" : "#b8c4d0",
+          borderWidth: 0.62
         },
-        emphasis: {
-          disabled: true
-        }
+        emphasis: { disabled: true }
       },
 
       series: [
@@ -170,11 +170,11 @@
           },
           itemStyle: {
             color: "#0d4994",
-            opacity: 0.82,
+            opacity: 0.84,
             borderColor: "#ffffff",
-            borderWidth: 1.2,
-            shadowBlur: 8,
-            shadowColor: "rgba(13,73,148,0.24)"
+            borderWidth: 1.15,
+            shadowBlur: 7,
+            shadowColor: "rgba(13,73,148,0.23)"
           },
           emphasis: {
             scale: 1.35,
@@ -204,7 +204,6 @@
     const loading = $("visitor-map-loading");
 
     try {
-      // Record first so the current page view is reflected in the counters.
       await recordVisit();
 
       const [stats, worldGeoJSON] = await Promise.all([
@@ -214,7 +213,6 @@
 
       updateMetrics(stats);
       renderMap(worldGeoJSON, stats);
-
       loading?.classList.add("is-hidden");
     } catch (error) {
       console.error("Visitor map failed:", error);
