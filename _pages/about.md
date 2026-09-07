@@ -106,7 +106,7 @@ Major: Physical Geography and Resource Environment <br>
 - Huang X.F., Cao L.M., Tian X.D., Zhu Q., Saikawa E., Lin L.L., `Cheng Y.`, He L.Y., Hu M., Zhang Y.H., Lu K.D., Liu Y.H., Daellenbach K., Slowik J.G., Tang Q., Zou Q.L., Sun X., Xu B.Y., Jiang L., Shen Y.M., Ng N.L., Prévôt A.S.H. 2021. Critical Role of Simultaneous Reduction of Atmospheric Odd Oxygen for Winter Haze Mitigation. Environmental Science & Technology, 55: 11557-11567.
 
 <details>
-<summary style="cursor: pointer; margin: 8px 0 14px 0; font-weight: 500;">
+<summary style="cursor: pointer; margin: 8px 0 14px 0; font-weight: 500; font-size: 1.1em;">
 ... Show more publications
 </summary>
 
