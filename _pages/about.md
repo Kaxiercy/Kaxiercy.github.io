@@ -46,7 +46,7 @@ Major: Physical Geography and Resource Environment <br>
 《Environmental Science & Technology》
 </div><img src='images/EST_2026.jpg' alt="sym" width="100%"></div>
 </div><div class='paper-box-text' markdown="1">
-- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. [[DOI]]( https://doi.org/10.1021/acs.est.6c12789)[[Preview]](/pdf_file/1-2026_EST-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. [[DOI]]( https://doi.org/10.1021/acs.est.6c12789) [[Preview]](/pdf_file/1-2026_EST-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
   
 
 </div>
