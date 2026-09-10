@@ -46,14 +46,15 @@ Major: Physical Geography and Resource Environment <br>
 《Environmental Science & Technology》
 </div><img src='images/EST_2026.jpg' alt="sym" width="100%"></div>
 </div><div class='paper-box-text' markdown="1">
-- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. **Accepted.**
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. [[DOI]]( https://doi.org/10.1021/acs.est.6c12789)[[Preview]](/pdf_file/1-2025_JGRA-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
+  
 
 </div>
 </div>
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X., Wu J., He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: From one-hour to five minutes. Journal of Geophysical Research: Atmospheres, 130, e2024JD042477.[[DOI]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042477) [[Preview]](/pdf_file/1-2025_JGRA-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X., Wu J., He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: From one-hour to five minutes. Journal of Geophysical Research: Atmospheres, 130, e2024JD042477.[[DOI]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042477) [[Preview]](/pdf_file/1-2026_EST-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
   
 </div>
 </div>
@@ -141,8 +142,8 @@ Major: Physical Geography and Resource Environment <br>
 
 # 🏛️ Research Funding & Projects
 ### Research Grants as Principal Investigator
-- National Natural Science Foundation of China (NSFC), Young Scientists Fund (2026).
-- China Postdoctoral Science Fund, General Program (2026).
+- National Research Grant, China (2026).
+- National Research Program Grant, China (2026).
 
 ### Selected Collaborative Projects
 - National Key R&D Program of China, 2023–2027.  Project participant.
@@ -201,42 +202,25 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🗺️ Visitors
-<link rel="stylesheet" href="{{ '/assets/visitor/visitor.css' | relative_url }}">
-
-<div class="visitor-dashboard">
-  <div class="visitor-metrics" aria-label="Visitor statistics">
-    <div class="visitor-metric">
-      <span class="visitor-metric-value" id="visitor-total">–</span>
-      <span class="visitor-metric-label">Visits</span>
-    </div>
-    <div class="visitor-metric">
-      <span class="visitor-metric-value" id="visitor-unique">–</span>
-      <span class="visitor-metric-label">Unique Visitors</span>
-    </div>
-    <div class="visitor-metric">
-      <span class="visitor-metric-value" id="visitor-countries">–</span>
-      <span class="visitor-metric-label">Countries</span>
-    </div>
-    <div class="visitor-metric">
-      <span class="visitor-metric-value" id="visitor-cities">–</span>
-      <span class="visitor-metric-label">Cities</span>
-    </div>
-  </div>
-
-  <div class="visitor-map-shell">
-    <div id="visitor-map" role="img" aria-label="World map of approximate visitor locations"></div>
-    <div class="visitor-map-loading" id="visitor-map-loading">Loading visitor map…</div>
-  </div>
-
-  <div class="visitor-footer">
-    <div class="visitor-legend">
-      <span class="visitor-legend-dot" aria-hidden="true"></span>
-      <span>Point size reflects visit count</span>
-    </div>
-    <div class="visitor-note">Approximate IP geolocation · Raw IP addresses are not stored</div>
-  </div>
+<div style="max-width: 500px; margin: 0 auto;">
+  <script type="text/javascript"
+          id="mapmyvisitors"
+          src="https://mapmyvisitors.com/map.js?d=AfJaTaS96exh5MEGs5gBDkZc6rulGFKgNuKopm1_fCU&cl=ffffff&w=a">
+  </script>
 </div>
-
-<script src="{{ '/assets/visitor/echarts.min.js' | relative_url }}" defer></script>
-
-<script src="{{ '/assets/visitor/visitor.js' | relative_url }}" defer></script>
+<script src="https://giscus.app/client.js"
+        data-repo="Kaxiercy/Kaxiercy.github.io"
+        data-repo-id="R_kgDONck2dA"
+        data-category="Q&A"
+        data-category-id="DIC_kwDONck2dM4ClLAr"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
