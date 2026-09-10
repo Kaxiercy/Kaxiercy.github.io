@@ -46,7 +46,7 @@ Major: Physical Geography and Resource Environment <br>
 《Environmental Science & Technology》
 </div><img src='images/EST_2026.jpg' alt="sym" width="100%"></div>
 </div><div class='paper-box-text' markdown="1">
-- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. [[DOI]]( https://doi.org/10.1021/acs.est.6c12789)[[Preview]](/pdf_file/1-2025_JGRA-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Peng Y., Huang X.F., Zeng H., He L.Y. 2026. Mechanism-Constrained Learning for Regime-Aware Urban Ozone Prediction and Interpretation. Environmental Science & Technology. [[DOI]]( https://doi.org/10.1021/acs.est.6c12789) [[Preview]](/pdf_file/1-2026_EST-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
   
 
 </div>
@@ -54,7 +54,7 @@ Major: Physical Geography and Resource Environment <br>
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge" style="color: #4B0082; font-weight: bold; margin-top: 17px; margin-bottom: 10px;text-align: center; margin: 0 auto;">《Journal of Geophysical Research: Atmospheres》</div><img src='images/JGRA_2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X., Wu J., He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: From one-hour to five minutes. Journal of Geophysical Research: Atmospheres, 130, e2024JD042477.[[DOI]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042477) [[Preview]](/pdf_file/1-2026_EST-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
+- <span style="font-weight: bold; text-decoration: underline; background-color: #D3D3D3;">Cheng Y.</span>, Huang X.F., Peng Y., Cao L.M., Peng X., Wu J., He L.Y. 2025. Enhancing time resolution of ambient VOC measurement data by machine learning: From one-hour to five minutes. Journal of Geophysical Research: Atmospheres, 130, e2024JD042477.[[DOI]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042477) [[Preview]](/pdf_file/1-2025_JGRA-CY.pdf) <span style = "font-style: italic;">(Nature Index)</span>  
   
 </div>
 </div>
