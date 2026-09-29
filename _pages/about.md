@@ -195,9 +195,9 @@ Major: Physical Geography and Resource Environment <br>
 <br>
 
 # 🦾 Skills & Expertise
--	**Programming & Data Science:** Proficient in Python, R, and MATLAB for environmental data analysis, machine learning, statistical modeling, scientific visualization, and research software development. Experienced in processing and analyzing large-scale atmospheric observational and model datasets.
--	**Atmospheric Modeling:** Experienced with atmospheric chemistry and air-quality models, including MCM-based box models, PMF source apportionment, and WRF-CMAQ. Familiar with the development and application of trajectory and Lagrangian transport models.
--	**Geospatial Analysis:** Experienced with ArcGIS, ENVI, and Python-based geospatial tools for spatial analysis, mapping, and the integration of ground-based, meteorological, and remote-sensing datasets.
+-	**Scientific Computing & Data Science:** Proficient in Python and experienced in R and MATLAB for scientific computing, machine learning, interpretable AI, statistical analysis, and visualization.
+-	**Atmospheric Chemistry & Modeling:** Experienced with MCM/F0AM box modeling and WRF-CMAQ chemical transport modeling, together with PMF source apportionment and precursor-sensitivity analysis. Familiar with trajectory and Lagrangian methods for atmospheric transport analysis.
+-	**Atmospheric Observations & Instrumentation:** Hands-on experience with online and offline VOC measurements, particularly GC–MS and PTR-ToF-MS, including sampling, instrument operation, routine maintenance, data acquisition, quality control, and analysis.
 
 <br>
 
