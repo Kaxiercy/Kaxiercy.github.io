@@ -152,7 +152,7 @@ Major: Physical Geography and Resource Environment <br>
 - Shenzhen Science and Technology Program, 2020–2023.  Project participant.
 
 # 🎤 Selected Academic Presentations & Exchanges
-- EGU General Assembly 2026, Vienna, Austria, April 2026.
+- EGU General Assembly 2026, Vienna, Austria, May 2026.
 - 2025 VOCs International Joint Conference, Guangzhou, China, November 2025.
 - 2nd Future Particles Frontier Forum, Xi'an, China, April 2025. Outstanding Oral Presentation Award.
 - AGU Fall Meeting 2023, San Francisco, USA, December 2023.
