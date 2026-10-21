@@ -27,7 +27,7 @@ Email: <a href="mailto:yongcheng@pku.edu.cn">yongcheng@pku.edu.cn</a> <br>
 <br>
 
 # 🧐 Research Focus
-My research focuses on how atmospheric pollution responds to changes in emissions, climate, and urban environments. By integrating atmospheric observations, environmental big data, AI, and mechanistic models, I aim to uncover the underlying processes and improve our ability to understand and predict air pollution.
+My research focuses on how atmospheric pollution responds to changes in emissions, climate, and urban environments. By integrating atmospheric observations, environmental big data, and mechanistic models, I aim to uncover the underlying processes and improve our ability to understand and predict air pollution.
 
 <br>
 
